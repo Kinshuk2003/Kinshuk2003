@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kinshuk2003&show_icons=true&locale=en" alt="Kinshuk Goyal" /></p>
 
-<h3 align="left">Hacktoberfest'22 </h3>
+<h3 align="left">Hacktoberfest'22 Contributor: </h3>
 <p>&nbsp;<img align="center" src="https://holopin.me/kinshuk2003" alt="Holopin" /></p>
