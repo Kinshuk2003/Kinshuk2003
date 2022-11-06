@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kinshuk Goyal</h1>
-<h3>A Computer Science Student and developer fromIndia</h3>
+<h3>A Computer Science Student and Developer from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
