@@ -10,5 +10,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kinshuk2003&show_icons=true&locale=en" alt="Kinshuk Goyal" /></p>
-[![@kinshuk2003's Holopin board](https://holopin.me/kinshuk2003)](https://holopin.io/@kinshuk2003)
-
+<p>&nbsp;<img align="center" src="https://holopin.me/kinshuk2003" alt="Holopin" /></p>
