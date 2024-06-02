@@ -62,7 +62,7 @@ I'm a passionate software developer with a love for creating elegant solutions t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Projects
-
+updating soon ...
 <!-- ### [Project 1 Name](https://github.com/yourusername/project1)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
@@ -86,6 +86,11 @@ I'm a passionate software developer with a love for creating elegant solutions t
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kinshuk2003&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=Kinshuk2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kinshuk2003&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinshuk2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 <!-- ## 📝 Latest Blog Posts 
