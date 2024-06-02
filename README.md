@@ -81,17 +81,21 @@ updating soon ...
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinshuk2003&show_icons=true&theme=radical)
+<!-- ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinshuk2003&show_icons=true&theme=radical) -->
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinshuk2003&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinshuk2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kinshuk2003&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=Kinshuk2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kinshuk2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinshuk2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 
 <!-- ## 📝 Latest Blog Posts 
 
@@ -103,5 +107,4 @@ updating soon ...
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kinshuk2003)
-
+[![](https://visitcount.itsvg.in/api?id=Kinshuk2003&icon=7&color=0)](https://visitcount.itsvg.in)
