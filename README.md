@@ -9,7 +9,12 @@ I'm a passionate software developer with a love for creating elegant solutions t
 - 💬 Ask me about: Machine Learning, Full Stack Python, Data Analytics
 - ⚡ Fun fact: I want to Build a LLM for Complex Business Problems
 
-## Coding Profiles
+## 🌐 Coding Profiles
+
+<!-- - CodeChef: [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername) -->
+- GeeksforGeeks: [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kinshukgoyal2003/)
+- LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kinshuk2020/)
+<!-- - Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername) -->
 
 
 ## 🛠️ Skills
@@ -53,11 +58,11 @@ I'm a passionate software developer with a love for creating elegant solutions t
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
+<!-- ### [Project 1 Name](https://github.com/yourusername/project1)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
 - Features: [Key features of the project]
@@ -65,7 +70,7 @@ I'm a passionate software developer with a love for creating elegant solutions t
 ### [Project 2 Name](https://github.com/yourusername/project2)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
-- Features: [Key features of the project]
+- Features: [Key features of the project] -->
 
 ## 📫 Contact Me
 
@@ -82,16 +87,15 @@ I'm a passionate software developer with a love for creating elegant solutions t
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kinshuk2003&theme=radical)
 
 
-<!-- ## 📝 Latest Blog Posts -->
+<!-- ## 📝 Latest Blog Posts 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Title of Blog Post 1](https://yourblog.com/blog-post-1) -->
-<!-- - [Title of Blog Post 2](https://yourblog.com/blog-post-2) -->
-<!-- - [Title of Blog Post 3](https://yourblog.com/blog-post-3) -->
-<!-- BLOG-POST-LIST:END -->
+- [Title of Blog Post 1](https://yourblog.com/blog-post-1) 
+- [Title of Blog Post 2](https://yourblog.com/blog-post-2) 
+- [Title of Blog Post 3](https://yourblog.com/blog-post-3) -->
+
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kinshuk2003.Kinshuk2003)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kinshuk2003)
 
