@@ -1,8 +1,15 @@
 <h1 align="center"> Hi there, I'm Kinshuk Goyal!  <img src="./assets/wave.gif" width="30px"> </h1>
 
+
+<h3 align="center"><b> Software Developer | Open Source Contributor | Machine Learning Engineer </b> </h3>
+<p align="center">
+<p align='center'>I'm a passionate software developer with a love for creating elegant solutions to complex problems. My journey in tech started when I enrolled for the Bachelor's in Technology with Specialization in Computer Science and Engineering. Since then, I've worked with a variety of technologies and projects. I am Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect</a>!</p>
+
+---
+
 ## About Me
 
-I'm a passionate software developer with a love for creating elegant solutions to complex problems. My journey in tech started when I enrolled for the Bachelor's in Technology with Specialization in Computer Science and Engineering. Since then, I've worked with a variety of technologies and projects.
+
 
 - 🌱 Currently learning: Generative AI, MERN Stack
 - 👯 Looking to collaborate on: MERN Stack, Full Stack Python, AI
