@@ -1,4 +1,4 @@
-# Hi there, I'm Kinshuk Goyal! 👋
+<h1 align="center"> Hi there, I'm Kinshuk Goyal!  <img src="./assets/wave.gif" width="30px"> </h1>
 
 ## About Me
 
