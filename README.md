@@ -69,7 +69,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Projects
-updating soon ...
+
+<p align="center">
+<a href="https://github.com/Kinshuk2003/Automatic_attendance_system">
+  <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=Kinshuk2003&repo=Automatic_attendance_system&show_icons=true&theme=radical" />
+</a>
+</p>
 <!-- ### [Project 1 Name](https://github.com/yourusername/project1)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
