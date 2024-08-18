@@ -78,9 +78,9 @@
 <!-- ### [Project 1 Name](https://github.com/yourusername/project1)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
-- Features: [Key features of the project]
+- Features: [Key features of the project] -->
 
-### [Project 2 Name](https://github.com/yourusername/project2)
+<!-- ### [Project 2 Name](https://github.com/yourusername/project2)
 **Description:** Brief description of the project.
 - Tech Stack: [List of technologies used]
 - Features: [Key features of the project] -->
