@@ -75,15 +75,26 @@
   <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=Kinshuk2003&repo=Automatic_attendance_system&show_icons=true&theme=radical" />
 </a>
 </p>
-<!-- ### [Project 1 Name](https://github.com/yourusername/project1)
-**Description:** Brief description of the project.
-- Tech Stack: [List of technologies used]
-- Features: [Key features of the project] -->
 
-<!-- ### [Project 2 Name](https://github.com/yourusername/project2)
-**Description:** Brief description of the project.
-- Tech Stack: [List of technologies used]
-- Features: [Key features of the project] -->
+### [Schedula: Distributed Job Scheduling Service](https://github.com/Kinshuk2003/Schedula)
+**Description:**
+- Built a distributed job scheduling service to automate time-based and interval-based workflows, enabling reliable background execution across multiple job types.
+- Designed asynchronous execution with retries, persistence, and monitoring using a worker-based architecture, ensuring fault tolerance and consistent performance under concurrent workloads.
+- **Tech Stack:** Python, FastAPI, Celery, Redis, PostgreSQL, Docker.
+
+### [CodeRoom: Cloud Native AI Web IDE](https://github.com/Kinshuk2003/CodeRoom)
+**Description:**
+- Built a cloud-native browser IDE enabling in-browser code editing, execution, and terminal support, reducing local setup overhead and accelerating prototyping.
+- Designed real-time editor and execution engine using WebSockets and containerized runners, improving feedback loop and developer efficiency.
+- Implemented file system navigation, syntax-aware code rendering, and live preview features to enhance usability and support multi-language workflows.
+- **Tech Stack:** React, Node.js, Express.js, TypeScript, Docker, Nginx, MongoDB, WebSockets, Google Gemini API.
+
+### [Aspect Tour: Aspect term extraction from the Tourism Review](https://github.com/Kinshuk2003/AspectTour-Leveraging-LLMs-for-Aspect-Extraction-in-Tourism-Reviews)
+**Description:**
+- A Research Project (accepted for publication in Springer Nature LNNS series Book) to develop a robust system to extract insights from tourist destination reviews, focusing on customer preferences for services.
+- Applied NLP with Retrieval Augmented Generation (RAG) architecture to build and compare zero-shot, few-shot, and fine-tuned models (Llama-2, Mistral, Flan T5), Achieving 0.78 macro F1 score on real-world data.
+- **Tech Stack:** Python, PyTorch, LLM, RAG
+
 
 ## 📫 Contact Me
 
