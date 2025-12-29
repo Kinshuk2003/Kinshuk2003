@@ -1,9 +1,21 @@
-<h1 align="center"> Hi there, I'm Kinshuk Goyal!  <img src="./assets/wave.gif" width="30px"> </h1>
+<h1 align="center">
+  Hi, I'm Kinshuk Goyal 👋
+</h1>
 
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • AI & Systems Enthusiast
+</h3>
 
-<h3 align="center"><b> Software Developer | Open Source Contributor | Machine Learning Engineer </b> </h3>
 <p align="center">
-<p align='center'>I'm a passionate software developer with a love for creating elegant solutions to complex problems. My journey in tech started when I enrolled for the Bachelor's in Technology with Specialization in Computer Science and Engineering. Since then, I've worked with a variety of technologies and projects. I am Open Source Enthusiast and full-time adventure seeker. Thanks for visiting and I'd love to connect</a>!</p>
+  I build reliable systems from first principles — clean code, clear logic, real impact.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kinshuk-goyal/">LinkedIn</a> •
+  <a href="https://github.com/Kinshuk2003">GitHub</a> •
+  <a href="mailto:kinshukgoyal2003@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/kinshuk2020/">LeetCode</a>
+</p>
 
 ---
 
@@ -11,10 +23,9 @@
 
 
 
-- 🌱 Currently learning: Generative AI, MERN Stack
+- 🌱 Currently learning: Generative AI, Golang
 - 👯 Looking to collaborate on: MERN Stack, Full Stack Python, AI
 - 💬 Ask me about: Machine Learning, Full Stack Python, Data Analytics
-- ⚡ Fun fact: I want to Build a LLM for Complex Business Problems
 
 ## 🌐 Coding Profiles
 
@@ -68,32 +79,40 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Kinshuk2003/Automatic_attendance_system">
-  <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=Kinshuk2003&repo=Automatic_attendance_system&show_icons=true&theme=radical" />
-</a>
-</p>
+### 🕒 **Schedula — Distributed Job Scheduling Service**
+🔗 https://github.com/Kinshuk2003/Schedula
 
-### [Schedula: Distributed Job Scheduling Service](https://github.com/Kinshuk2003/Schedula)
-**Description:**
-- Built a distributed job scheduling service to automate time-based and interval-based workflows, enabling reliable background execution across multiple job types.
-- Designed asynchronous execution with retries, persistence, and monitoring using a worker-based architecture, ensuring fault tolerance and consistent performance under concurrent workloads.
-- **Tech Stack:** Python, FastAPI, Celery, Redis, PostgreSQL, Docker.
+- Designed a **fault-tolerant distributed scheduler** for time-based & interval workflows  
+- Implemented **async execution, retries, persistence, and monitoring**
+- Worker-based architecture handling concurrent workloads reliably  
 
-### [CodeRoom: Cloud Native AI Web IDE](https://github.com/Kinshuk2003/CodeRoom)
-**Description:**
-- Built a cloud-native browser IDE enabling in-browser code editing, execution, and terminal support, reducing local setup overhead and accelerating prototyping.
-- Designed real-time editor and execution engine using WebSockets and containerized runners, improving feedback loop and developer efficiency.
-- Implemented file system navigation, syntax-aware code rendering, and live preview features to enhance usability and support multi-language workflows.
-- **Tech Stack:** React, Node.js, Express.js, TypeScript, Docker, Nginx, MongoDB, WebSockets, Google Gemini API.
+**Tech:** Python, FastAPI, Celery, Redis, PostgreSQL, Docker
 
-### [Aspect Tour: Aspect term extraction from the Tourism Review](https://github.com/Kinshuk2003/AspectTour-Leveraging-LLMs-for-Aspect-Extraction-in-Tourism-Reviews)
-**Description:**
-- A Research Project (accepted for publication in Springer Nature LNNS series Book) to develop a robust system to extract insights from tourist destination reviews, focusing on customer preferences for services.
-- Applied NLP with Retrieval Augmented Generation (RAG) architecture to build and compare zero-shot, few-shot, and fine-tuned models (Llama-2, Mistral, Flan T5), Achieving 0.78 macro F1 score on real-world data.
-- **Tech Stack:** Python, PyTorch, LLM, RAG
+---
+
+### 💻 **CodeRoom — Cloud-Native AI Web IDE**
+🔗 https://github.com/Kinshuk2003/CodeRoom
+
+- Built a browser-based IDE with **live execution & terminal access**
+- Real-time collaboration via **WebSockets + containerized runners**
+- Reduced local setup friction, improved developer feedback loops  
+
+**Tech:** React, Node.js, TypeScript, Docker, MongoDB, Nginx
+
+---
+
+### 📚 **AspectTour — LLM-Based Aspect Extraction (Research)**
+🔗 https://github.com/Kinshuk2003/AspectTour-Leveraging-LLMs-for-Aspect-Extraction-in-Tourism-Reviews
+
+- **Springer Nature accepted research** (LNNS series)
+- Applied **RAG + LLMs** for aspect extraction on tourism reviews
+- Achieved **0.78 macro F1** on real-world datasets  
+
+**Tech:** Python, PyTorch, LLaMA-2, Mistral, Flan-T5
+
+---
 
 
 ## 📫 Contact Me
@@ -101,6 +120,10 @@
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshuk-goyal/)
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/real_kinshuk)
 - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinshukgoyal2003@gmail.com)
+
+<p align="center">
+  <i>“Build things that last. Optimize for clarity.”</i>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -116,9 +139,9 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kinshuk2003&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kinshuk2003&theme=radical) -->
 
 <!-- ## 📝 Latest Blog Posts 
 
@@ -129,5 +152,3 @@
 ---
 
 *Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.*
-
-[![](https://visitcount.itsvg.in/api?id=Kinshuk2003&icon=7&color=0)](https://visitcount.itsvg.in)
